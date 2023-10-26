@@ -1,0 +1,1 @@
+can you replace in the file index.html the href in the link to style.css.min, the src in the script to script.js.min and convert all the img whith .png to .webp please.  
